@@ -3,7 +3,8 @@
 // @version      2.2.2
 // @description  A cheat for survev.io & more
 // @author       mahdi, noam
-// @match        https://nothing // @run-at       document-start
+// @match        *//*/* 
+// @run-at       document-start
 // @icon         https://i.postimg.cc/W4g7cxLP/image.png
 // @grant        none
 // ==/UserScript==
